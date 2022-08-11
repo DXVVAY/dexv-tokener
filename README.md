@@ -23,7 +23,7 @@ now you can right click on peoples pfp and copy id
 <img src="https://media.discordapp.net/attachments/690273779347226625/1007071892861100162/unknown.png">
 
 ```py
-now put int the id and wait until it finds the toke 
+now put int the id and wait until it finds the token
 
 ENOYYYYYYYYYYYY
 ```
